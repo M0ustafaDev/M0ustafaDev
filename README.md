@@ -4,7 +4,7 @@
 <p align="center">
   <!-- Action buttons -->
   <a href="https://creativerevier.qzz.io"><img alt="website" src="https://img.shields.io/badge/Website-Portfolio-blue?style=for-the-badge&logo=google-chrome"></a>
-  <a href="mailto:Moustafa@creativerevier.qzz.io"><img alt="email" src="https://img.shields.io/badge/Email-hello%40example.com-c14438?style=for-the-badge&logo=gmail"></a>
+  <a href="mailto:Moustafa@creativerevier.qzz.io"><img alt="email" src="https://img.shields.io/badge/Email-Moustafa%40creativerevier.qzz.io-c14438?style=for-the-badge&logo=gmail"></a>
   <a href="https://www.linkedin.com/in/moustafa-ashraf-313011425/"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
 </p>
 
