@@ -17,6 +17,7 @@
 [![SQL](https://img.shields.io/badge/SQL-Database-00758F?style=for-the-badge&logo=postgresql)](https://www.postgresql.org)
 [![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL-47A248?style=for-the-badge&logo=mongodb)](https://www.mongodb.com)
 [![Docker](https://img.shields.io/badge/Docker-Container-2496ED?style=for-the-badge&logo=docker)](https://www.docker.com)
+[![Socket.io](https://img.shields.io/badge/Socket.io-Realtime-010101?style=for-the-badge&logo=socket.io)](https://socket.io)
 
 ---
 
